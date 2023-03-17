@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            73 Commits
+                            74 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.71k added, 1.38k removed
+                                    2.79k added, 1.57k removed
                                 </div>
                             </section>
                             <section>
@@ -226,19 +226,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 94.5kb of code in 97 edited files across 66 commits</small>
+                <small>estimation from 96.5kb of code in 100 edited files across 67 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.55646143257982" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="253.55646143257982" y="0" width="116.31383344803855" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="369.87029488061836" y="0" width="6.073587802424692" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="375.94388268304306" y="0" width="5.698554714384033" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="381.6424373974271" y="0" width="1.3734978029541003" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="383.0159352003812" y="0" width="0.9351474403091745" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="383.95108264069034" y="0" width="76.04891735930964" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.03015336086497" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="251.03015336086497" y="0" width="120.64415713781726" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="371.67431049868225" y="0" width="5.9520202544254674" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="377.6263307531077" y="0" width="5.584493743125739" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="383.2108244962335" y="0" width="1.3460061842405628" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="384.55683068047404" y="0" width="0.9164297424616598" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="385.4732604229357" y="0" width="74.52673957706435" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -294,6 +294,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">litepupp/spotify-analyzer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b9dda2</div>
+                                        <div class="message">final? changes to ingest</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Mar 2023, 18:12:46</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -376,27 +397,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">12 Mar 2023, 21:28:13</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">litepupp/spotify-analyzer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#696b5e1</div>
-                                        <div class="message">fixed auth file parsing</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Mar 2023, 15:13:23</div>
                             </section>
                         </div>
                     </section>
@@ -497,7 +497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2023, 17:15:50 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Mar 2023, 18:16:33 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
