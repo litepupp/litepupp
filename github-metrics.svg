@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            149 Commits
+                            150 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 25.1mb of code in 192 edited files across 105 commits</small>
+                <small>estimation from 25.1mb of code in 195 edited files across 106 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.97735486702345" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="306.97735486702345" y="0" width="139.41304976061792" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="446.3904046276414" y="0" width="1.1133691625832933" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.50377379022467" y="0" width="0.08885537066053985" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="447.5926291608852" y="0" width="0.0792107307580545" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="447.67183989164323" y="0" width="0.04682967739723871" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.71866956904046" y="0" width="0.02867721826518455" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.7473467873057" y="0" width="12.252653212694284" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.9109997260583" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="306.9109997260583" y="0" width="139.38291472810633" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="446.2939144541647" y="0" width="1.212560476188237" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.5064749303529" y="0" width="0.08883616399740261" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="447.5953110943503" y="0" width="0.07919360884621943" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="447.67450470319653" y="0" width="0.046819554859547315" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.7213242580561" y="0" width="0.028671019498955362" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.749995277555" y="0" width="12.250004722444972" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,6 +323,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2f1ecd4</div>
+                                        <div class="message">new class for handling logic</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Jun 2023, 03:51:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">litepupp/Spotify-Analyzer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#d120a27</div>
                                         <div class="message">Delete backend/express/prisma/migrations directory</div>
                                     </div>
@@ -388,27 +409,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">1 Jun 2023, 17:55:17</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">litepupp/Spotify-Analyzer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#913cbbf</div>
-                                        <div class="message">more changes to prisma schema</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">1 Jun 2023, 15:47:49</div>
                             </section>
                         </div>
                     </section>
@@ -512,7 +512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 03:17:44 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 04:13:24 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
